@@ -21,7 +21,7 @@ export interface Student {
 }
 
 // Initial student records
-export const students: Student[] = [
+export const startingStudents: Student[] = [
   { id: 1, firstName: "Zara", lastName: "Ahmed", grade: 12, average: 88 },
   { id: 2, firstName: "James", lastName: "Wilson", grade: 11, average: 75 },
   { id: 3, firstName: "Sarah", lastName: "Johnson", grade: 10, average: 92 },
