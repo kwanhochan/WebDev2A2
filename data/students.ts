@@ -32,3 +32,5 @@ export const students: Student[] = [
   { id: 8, firstName: "Noah", lastName: "Taylor", grade: 9, average: 73 },
 ];
 
+export const startingStudents = students;
+
